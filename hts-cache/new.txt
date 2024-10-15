@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:20:48	193942/193942	---M-Z	200	added ('OK')	text/html	etag:%223b1410fc72fe2399766b63ab5aca8da6%22	https://shy.framer.website/	shy.framer.website/index.html	(from )
+01:20:48	91/91	---M-Z	-1	error ('Open%20error%20when%20decompressing%20(can%20not%20create%20temporary%20file%20/tmp0.z)')	text/plain	etag:%22112bca53494912f381e530b84585c649%22	https://shy.framer.website/robots.txt		(from )
+01:20:49	179416/179416	---M-Z	200	added ('OK')	text/html	etag:%22ee85297007cc11e4c94bfa7e37106762%22	https://shy.framer.website/about	shy.framer.website/about.html	(from https://shy.framer.website/)
+01:20:50	181691/181691	---M-Z	200	added ('OK')	text/html	etag:%22e3b29c2ca2720a9821979df2942066f4%22	https://shy.framer.website/works	shy.framer.website/works.html	(from https://shy.framer.website/)
+01:20:51	206253/206253	---M-Z	200	added ('OK')	text/html	etag:%227fcc27ad26f23874347cc030b8aed71a%22	https://shy.framer.website/connect	shy.framer.website/connect.html	(from https://shy.framer.website/)
